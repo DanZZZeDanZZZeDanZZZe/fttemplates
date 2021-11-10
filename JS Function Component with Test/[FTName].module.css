@@ -1,0 +1,38 @@
+.container {
+    
+}
+
+/* extra small screens (mobile) */
+@media screen and (max-width: 620px) {
+    .container {
+    
+    }
+}
+
+/* small screens (mobile) */
+@media screen and (min-width: 620px) and (max-width: 772px) {
+    .container {
+    
+    }
+}
+
+/* medium screens (tablet) */
+@media screen and (min-width: 772px) and (max-width: 1036px) {
+    .container {
+    
+    }
+}
+
+/* large screens (desktop) */
+@media screen and (min-width: 1036px) {
+    .container {
+    
+    }
+}
+
+/* extra large screens (large desktop)*/
+@media screen and (min-width: 1681px) {
+    .container {
+    
+    }
+}

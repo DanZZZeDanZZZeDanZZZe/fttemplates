@@ -6,7 +6,11 @@ import PropTypes from 'prop-types';
 import style from './[FTName].module.css'
 
 const <FTName | pascalcase> = (props) => {
-  return <div></div>
+  return (
+    <div className={style.container}>
+      <FTName | pascalcase>
+    </div>
+  )
 }
 
 <FTName | pascalcase>.defaultProps = {
